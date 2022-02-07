@@ -5,3 +5,4 @@ In a team of three students we used various machine learning algorithms to creat
 
 Useful links:
 * https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+* https://www.researchgate.net/publication/259655486_Game-Tree_Search_Using_Proof_Numbers_The_First_Twenty_Years#pf4
