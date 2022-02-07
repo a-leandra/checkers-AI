@@ -8,7 +8,7 @@ In a team of three students we used various machine learning algorithms to creat
 * https://www.researchgate.net/publication/259655486_Game-Tree_Search_Using_Proof_Numbers_The_First_Twenty_Years#pf4
 
 ## Members
-[Natalia Mierkiewicz](https://github.com/Nataliamier)
+[Natalia Mierkiewicz](https://github.com/MierkiewiczN)
 
 [Hanna Maszlanka](https://github.com/HM158)
 
