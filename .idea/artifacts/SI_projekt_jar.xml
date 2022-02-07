@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SI_projekt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SI_projekt_jar</output-path>
+    <root id="archive" name="SI_projekt.jar">
+      <element id="module-output" name="SI_projekt" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
