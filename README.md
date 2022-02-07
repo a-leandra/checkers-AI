@@ -1,1 +1,2 @@
 # checkers-AI
+![](game.gif)
